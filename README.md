@@ -32,7 +32,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200px">
+<img align="right" alt="GIF" src="https://i.imgur.com/rTZkf4K.gif" width="200px">
 
 <h3 id="-languages-and-tools">👨‍💻 Languages and Tools</h3>
 <br>
@@ -69,10 +69,8 @@
 ---
 
 <h3>📖 Currently Learning</h3>
-
-- 🌐 React.js  
-- 🐳 Docker  
-- 🤖 Machine Learning frameworks  
+  
+- 🤖 Godot Engine 
 
 ---
 
