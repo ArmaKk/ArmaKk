@@ -86,12 +86,4 @@
 
 ⚡ I love exploring new tech trends and building side projects that mix creativity with coding!  
 
----
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ArmaKk.Armakk" alt="visitor badge">
-</p>
-
-<hr>
-<p align="center">Credits: <a href="https://github.com/ArmaKk">ArmaKk</a></p>
-<p align="center">Last Edited on: 01/10/2025</p>
