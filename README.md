@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm ArmaKk</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer science student at the University of Salerno</h3>
 
 - 🔭 I’m currently working on [AI GURU](https://aidotguru.web.app/)
 
 - 🌱 I’m currently learning **Godot Engine**
+
+- 🤝 I’m looking for help with **code and more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
